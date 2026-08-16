@@ -1,0 +1,6 @@
+[submodule "dependencies/mlib"]
+	path = dependencies/mlib
+	url = https://github.com/P-p-H-d/mlib
+[submodule "dependencies/max-test"]
+	path = dependencies/max-test
+	url = https://github.com/Cycling74/max-test
